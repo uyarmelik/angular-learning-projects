@@ -4,3 +4,7 @@ This repository contains a collection of Angular applications created to learn a
 ### Projects
 1. **[Movie Web App](./movie-web-app):** This project is an Angular-based movie catalog application that integrates with the TMDb API to display a list of films and their detailed information. It demonstrates best practices in routing, service-based HTTP requests, and reusable component architecture, serving as a hands-on learning experience for Angular developers.
 2. **[Todo App](./todo-app):** A basic Todo application. Demonstrates the use of components and data management in Angular.
+
+### Requirements
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
